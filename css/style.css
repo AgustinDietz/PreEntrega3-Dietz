@@ -1,0 +1,15 @@
+.cardAccesorios{
+    width:500px;
+}
+
+.fakeAncla{
+    text-decoration: underline;
+    color: #42b0ba;
+}
+
+.loginBar{
+    background-color: #0f0f0e;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
